@@ -82,8 +82,10 @@ deploy:
   type: git
   repo: https://github.com/cocapai/cocapai.github.io.git
   branch: master
-  
+
 search:
   path: search.xml
   field: post
   content: true
+
+  
