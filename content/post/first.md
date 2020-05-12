@@ -3,6 +3,7 @@ title: "First"
 date: 2020-05-11T14:23:02+08:00
 draft: true
 tags: ["cordova","ios","wkwebview"]
+categories: ["cordova"]
 ---
 
 ## cordova改wkwebview打包ios应用，直接启动不了
