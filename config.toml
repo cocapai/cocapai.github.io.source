@@ -1,4 +1,4 @@
-baseURL = "https://cocapai.github.io"
+baseURL = "https://www.cocapai.com"
 languageCode = "zh-CN"
 title = "酷卡派"
 theme = "maupassant"
@@ -19,7 +19,7 @@ summaryLength = 140
 
 [params]
   author = "酷卡派"
-  subtitle = "专注于IOS、C/C++、Python、flutter、vue、Android、Java、Go语言(golang)、移动互联网、项目管理、软件架构"
+  subtitle = "专注于IOS、C/C++、Python、flutter、vue、IOS, Android、Java、Go语言(golang)、移动互联网、项目管理、软件架构"
   keywords = "这特么还叫专注吗？谁知道呢？IOS、C/C++、Python、flutter、vue、golang,go语言,go语言笔记,酷卡派,java,android,博客,项目管理,python,软件架构,公众号,小程序"
   description = "专注于IT互联网，包括但不限于IOS、C/C++、Python、flutter、vue、Go语言(golang)、Java、Android、Python、项目管理、抖音分析、软件架构等"
   busuanzi = true #启用不算子网页统计
@@ -40,7 +40,7 @@ summaryLength = 140
 [[params.links]]
   title = "酷卡派"
   name = "酷卡派"
-  url = "https://cocapai.github.io/"
+  url = "https://www.cocapai.com/"
 
 [[params.links]]
   title = "Android Gradle权威指南"

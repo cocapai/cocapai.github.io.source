@@ -1,9 +1,9 @@
 ---
-title: "First"
+title: "cordova改wkwebview打包ios应用，直接启动不了"
 date: 2020-05-11T14:23:02+08:00
 draft: true
 tags: ["cordova","ios","wkwebview"]
-categories: ["cordova"]
+categories: ["IT技术"]
 ---
 
 ## cordova改wkwebview打包ios应用，直接启动不了

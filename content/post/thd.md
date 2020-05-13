@@ -1,8 +1,10 @@
 ---
 title: "《坚持是一种可以养成的习惯》读后分享"
-date: 2020-05-11T15:38:28+08:00
+date: 2018-07-11T15:38:28+08:00
 draft: true
-tags: ["sdf"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自动生成标签的子URL
+tags: ["读书"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自动生成标签的子URL
+categories: ["读书"]
+cover: "https://www.cocapai.com/uploads/1TRqrpA0vpOXgZ6s6KpTDEncraWwNwKL1DwuUXng.jpg"
 ---
 
 人是被习惯所塑造的，优异的结果来自于良好的习惯，而非一时冲动”，这是亚里士多德说的。 一件事情你这样想或那样想大部分是思维习惯决定的，一条路向前走或向右转基本是行为习惯决定的，这是我说的，哈！ 不管怎么样，习惯很重要，养成好习惯很重要。然而养成一个好习惯又非常不容易。
@@ -18,11 +20,6 @@ tags: ["sdf"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自�
 重点：可以雇佣专家，如：和健身房的教练，英文老师约时间练习。另外可以营造时间有限的情景，想整理房间，就在周末安排家庭聚会。想节约，身上只留下够一天花的钱，想跑步，就去报名长跑比赛。
 
  就是这些了。每个人都想遇见更好的自己，更好的自己不会自己在那儿等着你，都需要自己修炼。所以，那就开始吧！
-<img src="https://www.cocapai.com/uploads/PLwzldo5ELC4wpsFAoppsaGBcM8CrOevaRy0YB96.jpg" alt="PLwzldo5ELC4wpsFAoppsaGBcM8CrOevaRy0YB96.jpg" style="zoom:50%;" />
+![](https://www.cocapai.com/uploads/1TRqrpA0vpOXgZ6s6KpTDEncraWwNwKL1DwuUXng.jpg)
 
-
-
-
-
-<img src="https://www.cocapai.com/uploads/1TRqrpA0vpOXgZ6s6KpTDEncraWwNwKL1DwuUXng.jpg" style="zoom:33%;" />
 
