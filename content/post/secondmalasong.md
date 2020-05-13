@@ -3,7 +3,7 @@ title: "第二个半马训练日志"
 date: 2019-09-12T15:52:10+08:00
 draft: true
 tags: ["马拉松", "跑步"]
-categories: ["马拉松"]
+categories: ["跑步"]
 ---
 
 ![quibusdam-temporibus-rerum-assumenda-repellendus-rerum-temporibus-atque-inventore-molestias-z18hm](http://blog.cocapai.com/storage/cover/2020/04/07/PLwzldo5ELC4wpsFAoppsaGBcM8CrOevaRy0YB96.jpg)

@@ -11,7 +11,7 @@ tags: ["wkwebview", "百度地图"]
 
 修改插件中CDVWKWebViewEngine.m文件
 
-```NSString *scheme = [url scheme];
+```objectivec
 - (void) webView: (WKWebView *) webView decidePolicyForNavigationAction: (WKNavigationAction*) navigationAction decisionHandler: (void (^)(WKNavigationActionPolicy)) decisionHandler
 {
     NSURL* url = [navigationAction.request URL];
