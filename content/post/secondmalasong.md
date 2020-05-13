@@ -6,9 +6,9 @@ tags: ["马拉松", "跑步"]
 categories: ["跑步"]
 ---
 
-![quibusdam-temporibus-rerum-assumenda-repellendus-rerum-temporibus-atque-inventore-molestias-z18hm](http://blog.cocapai.com/storage/cover/2020/04/07/PLwzldo5ELC4wpsFAoppsaGBcM8CrOevaRy0YB96.jpg)
 
 
+![](https://cocapai.github.io/uploads/PLwzldo5ELC4wpsFAoppsaGBcM8CrOevaRy0YB96.jpg)
 
 2019年9月26日星期四 倒计时30天
 
