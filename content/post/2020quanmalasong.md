@@ -5,7 +5,14 @@ draft: true
 tags: ["马拉松", "跑步"]
 categories: ["跑步"]
 ---
+![](https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg)
+
 ## 5月
+
+##### 5月15日 晴
+
+起床已经6:10了,去跑了5公里，感觉好累
+
 ##### 5月14日 小雨
 
 6:00起床，下雨没跑，在家练了一会儿力量
