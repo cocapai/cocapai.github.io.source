@@ -4,6 +4,7 @@ date: 2020-05-12T20:52:10+08:00
 draft: true
 tags: ["马拉松", "跑步"]
 categories: ["跑步"]
+cover: "https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg"
 ---
 ![](https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg)
 
