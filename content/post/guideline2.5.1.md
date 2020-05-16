@@ -3,7 +3,7 @@ title: "Guideline 2.5.1 - Performance - Software Requirements"
 date: 2019-07-13T08:20:25+08:00
 draft: true
 tags: ["ios"]
-categories: ["ios"]
+categories: ["IT技术"]
 ---
 
 提示如下：
