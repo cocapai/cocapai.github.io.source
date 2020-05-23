@@ -9,6 +9,10 @@ cover: "https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg"
 ![](https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg)
 
 ## 第二周
+##### 5月23日 晴 19~32C°
+
+没跑，晚上看手机，睡太晚了，又没起来。明天一定要早睡！
+
 ##### 5月22日 晴 18~32C°
 
 没跑，晚上看手机，睡太晚了，没起来。
