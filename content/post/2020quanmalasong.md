@@ -8,7 +8,18 @@ cover: "https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg"
 ---
 ![](https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg)
 
+## 第三周
+
+##### 5月26日 晴
+
+没跑
+
+##### 5月25日 晴
+
+没跑
+
 ## 第二周 跑步三天
+
 ##### 5月24日 晴 16~32C°
 
 5：30起床，跑步5公里，10点睡的。继续加油
