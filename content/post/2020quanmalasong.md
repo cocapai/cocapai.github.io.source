@@ -10,6 +10,10 @@ cover: "https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg"
 
 ## 第九周
 
+##### 7月9日 周四
+
+跑步4公里，小腿还是没怎么恢复好，有些疼。
+
 ##### 7月8号 星期三
 
 没跑
