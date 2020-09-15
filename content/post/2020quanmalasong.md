@@ -8,6 +8,18 @@ cover: "https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg"
 ---
 ![](https://www.cocapai.com/uploads/street-marathon-1149220_960_720.jpg)
 
+## 第十六周
+
+##### 7月24日
+
+跑了四公里，半走半跑，慢慢恢复吧
+
+## 第十二、十三、十四、十五周
+
+##### 7月27 ~ 8月23日
+
+没跑
+
 ## 第十、十一周
 
 ##### 7月11日 ~ 7月26日
